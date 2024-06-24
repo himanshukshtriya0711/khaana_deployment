@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.section-1{
+    height: 900px;
+    width: 100%;
+    background-color: grey;
+    
+}
+
+.nav-bar{
+    height: 60px;
+    width: 100%;
+    
+    background-color: rgba(0, 0, 0, 0.433);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.name{
+    font-family:cursive;
+    color: rgba(255, 255, 0, 0.586);
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+
+.doondh{
+    margin-left: 500px;
+    border: none;
+    background-color:  rgba(0, 0, 0, 0.433);
+    height: 30px;
+    width: 150px;
+
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+.doondh:hover{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.mangaya{
+    margin-right:300px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.433);
+    color: white;
+    height: 30px;
+    width: 150px;
+
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+
+.mangaya:hover{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.SECTION-2{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+   
+    
+}
+
+.image-1{
+    flex-direction: column;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    border-radius: 10px;
+    
+}
+
+.laddo{
+    height: 300px;
+    width: 400px;
+}
+
+.text{
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+
+
+}
+
+.addkar{
+    flex-direction: column;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 125px;
+    background-color: orange;
+
+
+}
+
+.addkar:hover{
+    background-color: plum;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image-2{
+    flex-direction: column;
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    border-radius: 10px; 
+
+}
+
+.bajra{
+    height: 300px;
+    width: 400px;
+
+}
+
+.text-2{
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+
+}
+
+.addkar-2{
+
+    flex-direction: column;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 125px;
+    background-color: orange;
+}
+
+.addkar-2:hover{
+    background-color: plum;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
